@@ -26,6 +26,7 @@ As a Junior Software Engineer at KPMG, I'm deeply engaged in data science and so
 
 - **M.Sc in Data Science** (Expected Sep 2025) - University of Milano-Bicocca
 - **B.Sc in Statistics** (110/110 with honors) - University of Milano-Bicocca
+  - **Thesis**: "A Machine Learning Application for Meta-Analysis in Clinical Settings". The full thesis can be found [here](https://github.com/JuliusMaliwat/bachelor-thesis). 
 
 #### 🛠️ Projects
 - **[META Champions in League of Legends](https://github.com/JuliusMaliwat/META-champions-lol)**: A data-driven project to identify META champions in League of Legends, utilizing Python for data collection and analysis.
