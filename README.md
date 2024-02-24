@@ -33,5 +33,4 @@ As a Junior Software Engineer at KPMG, I'm deeply engaged in data science and so
 - **[Decoding NBA Positions by Shots](https://github.com/JuliusMaliwat/decoding-nba-positions-by-shots)**: A computational statistics project aimed at classifying basketball players' roles based on shooting data from the NBA.
 - **[White Wine Quality Classification](https://github.com/JuliusMaliwat/white-wine-quality-classification)**: Developed for a Data Mining course, this project focuses on classifying white wine preferences using physicochemical properties.
 - **[Student Alcohol Consumption](https://github.com/JuliusMaliwat/student-alcohol-consumption)**: This dataset analysis provides insights into the familial, social, health, and school life of secondary school students, including their end-of-year grades and alcohol consumption patterns.
-- **[Tableau Project](https://github.com/JuliusMaliwat/tableau-project)**: An analysis of UK job advertisements and their trends between 2019 and 2021, visualized through Tableau dashboards.
-
+- **[Sleep Efficiency and Lifestyle Correlations](https://github.com/JuliusMaliwat/sleep-efficiency-lifestyle)**: An analytical approach to how lifestyle factors such as caffeine, alcohol, smoking, and exercise influence sleep patterns, with visualizations through Tableau dashboards.
