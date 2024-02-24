@@ -20,12 +20,11 @@ At **KPMG**, I've contributed to automating dashboard development with Python an
 - **B.Sc in Statistics** (110/110 with honors) - University of Milano-Bicocca
 
 #### 🛠️ Projects
-
+- **[META Champions in League of Legends](https://github.com/JuliusMaliwat/META-champions-lol)**: A data-driven project to identify META champions in League of Legends, utilizing Python for data collection and analysis.
+- **[Bio-Signal Indicators for Smoking Behavior](https://github.com/JuliusMaliwat/smoke-signals-ml)**: Utilizing machine learning to analyze bio-signal data for indicators of smoking behavior, showcasing the potential of ML in health informatics.
 - **[Decoding NBA Positions by Shots](https://github.com/JuliusMaliwat/decoding-nba-positions-by-shots)**: A computational statistics project aimed at classifying basketball players' roles based on shooting data from the NBA.
 - **[White Wine Quality Classification](https://github.com/JuliusMaliwat/white-wine-quality-classification)**: Developed for a Data Mining course, this project focuses on classifying white wine preferences using physicochemical properties.
 - **[Student Alcohol Consumption](https://github.com/JuliusMaliwat/student-alcohol-consumption)**: This dataset analysis provides insights into the familial, social, health, and school life of secondary school students, including their end-of-year grades and alcohol consumption patterns.
 - **[Tableau Project](https://github.com/JuliusMaliwat/tableau-project)**: An analysis of UK job advertisements and their trends between 2019 and 2021, visualized through Tableau dashboards.
-- **[META Champions in League of Legends](https://github.com/JuliusMaliwat/META-champions-lol)**: A data-driven project to identify META champions in League of Legends, utilizing Python for data collection and analysis.
-- **[Bio-Signal Indicators for Smoking Behavior](https://github.com/JuliusMaliwat/smoke-signals-ml)**: Utilizing machine learning to analyze bio-signal data for indicators of smoking behavior, showcasing the potential of ML in health informatics.
 
 Let's connect and collaborate on GitHub to create innovative solutions that make a difference!
