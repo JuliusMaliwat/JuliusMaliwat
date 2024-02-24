@@ -12,15 +12,9 @@ As a Junior Software Engineer at KPMG, I'm deeply engaged in data science and so
 
 #### 💼 Work Experience
 
-**Junior Software Engineer at KPMG** (07/2023 – Present | Milan, Italy)
-- Developed an automation tool leveraging **Python and Pandas**, enhancing dashboard development efficiency by streamlining data preprocessing and cleaning, complemented by a **React interface**.
-- Significantly **improved user experience**, minimized incidents, and introduced innovative functionalities to internal tools using frontend technologies like **JavaScript and React**, and backend technologies such as **Python**.
-- Initiated a project to tailor a **LLM** using Meta's scaled-down LLaMA model, aimed at training an assistant on KPMG manuals for query responses; project shelved due to computational constraints.
-- Integral part of a team utilizing **Kanban agile framework** and **Git** for streamlined project management and efficient code versioning.
+- **Junior Software Engineer at KPMG** (07/2023 – Present | Milan, Italy)
+- **Research Intern at University of Milano-Bicocca** (03/2023 – 05/2023 | Milan, Italy)
 
-**Research Intern at University of Milano-Bicocca** (03/2023 – 05/2023 | Milan, Italy)
-- Developed an intuitive web application to streamline the **meta-analysis process** in clinical research using Dash framework, enhancing researchers' ability to identify relevant studies efficiently.
-- Conducted a comparative analysis between traditional machine learning models and **BioBert** using **pandas** and **scikit-learn** to automate the categorization of phrases from randomized clinical trial studies.
 
 #### 🎓 Education
 
