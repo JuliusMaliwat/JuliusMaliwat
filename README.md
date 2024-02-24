@@ -35,4 +35,3 @@ As a Junior Software Engineer at KPMG, I'm deeply engaged in data science and so
 - **[Student Alcohol Consumption](https://github.com/JuliusMaliwat/student-alcohol-consumption)**: This dataset analysis provides insights into the familial, social, health, and school life of secondary school students, including their end-of-year grades and alcohol consumption patterns.
 - **[Tableau Project](https://github.com/JuliusMaliwat/tableau-project)**: An analysis of UK job advertisements and their trends between 2019 and 2021, visualized through Tableau dashboards.
 
-Let's connect and collaborate on GitHub to create innovative solutions that make a difference!
