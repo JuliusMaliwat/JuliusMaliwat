@@ -2,7 +2,7 @@
 
 📍 Milan, Italy | 📧 juliusmaliwat.work@gmail.com
 
-As a Junior Software Engineer at KPMG, I'm deeply engaged in data science and software development, crafting solutions that bridge the gap between data and actionable insights. With my academic foundation in data science and statistics from the University of Milano-Bicocca, I am driven to tackle complex challenges through innovative technologies.
+As a Data Engineer, I'm deeply engaged in the world of data, developing solutions that transform raw information into actionable insights. With my academic foundation in data science and statistics from the University of Milano-Bicocca, I am driven to tackle complex challenges through innovative technologies.
 
 #### 🔧 Technologies & Tools
 
@@ -12,7 +12,8 @@ As a Junior Software Engineer at KPMG, I'm deeply engaged in data science and so
 
 #### 💼 Work Experience
 
-- **Junior Software Engineer at KPMG** (07/2023 – Present | Milan, Italy)
+- **Data Engineer at Softlab** (06/2024 – Present | Milan, Italy)
+- **Junior Software Engineer at KPMG** (07/2023 – 06/2024 | Milan, Italy)
 - **Research Intern at University of Milano-Bicocca** (03/2023 – 05/2023 | Milan, Italy)
 
 #### 🎓 Education
