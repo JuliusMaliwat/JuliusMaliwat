@@ -23,7 +23,7 @@ As a Data Engineer, I'm deeply engaged in the world of data, developing solution
   - **Thesis**: "A Machine Learning Application for Meta-Analysis in Clinical Settings". The full thesis can be found [here](https://github.com/JuliusMaliwat/bachelor-thesis). 
 
 #### 🛠️ Projects
-- **[Deep Learning for Audio-Vision Retrieval](https://github.com/JuliusMaliwat/deep-learning-audio-vision-retrieval)**: A multi-task deep learning project on environmental sound classification, low-light object detection, and vehicle image retrieval.
+- **[Deep Learning for Audio, Vision & Retrieval](https://github.com/JuliusMaliwat/deep-learning-audio-vision-retrieval)**: A multi-task deep learning project on environmental sound classification, low-light object detection, and vehicle image retrieval.
 - **[CamVid Dataset Segmentation with Deep Learning](https://github.com/JuliusMaliwat/semantic-segmentation-camvid)**: A project on semantic segmentation of the CamVid dataset using deep learning techniques.
 - **[META Champions in League of Legends](https://github.com/JuliusMaliwat/META-champions-lol)**: A data-driven project to identify META champions in League of Legends, utilizing Python for data collection and analysis.
 - **[Bio-Signal Indicators for Smoking Behavior](https://github.com/JuliusMaliwat/smoke-signals-ml)**: Utilizing machine learning to analyze bio-signal data for indicators of smoking behavior, showcasing the potential of ML in health informatics.
