@@ -4,11 +4,11 @@
 
 As a Data Engineer, I'm deeply engaged in the world of data, developing solutions that transform raw information into actionable insights. With my academic foundation in data science and statistics from the University of Milano-Bicocca, I am driven to tackle complex challenges through innovative technologies.
 
-#### 🔧 Technologies & Tools
+#### 🔧 Skills
 
-- **Languages:** Python, JavaScript, R, SQL
-- **Data Science Stack:** pandas, scikit-learn, seaborn, Tableau, PowerBI, KNIME, tidyverse
-- **Software Engineering Stack:** React, Git, Node.js, Flask, Dash
+- **Programming & Development:** Python, SQL, JavaScript, R, Git, React
+- **Data Engineering & Cloud:** Spark, AWS (SageMaker, Athena, Glue, Step Functions, Redshift)
+- **Data Science, AI & Analytics:** TensorFlow, PyTorch, scikit-learn, pandas, Tableau
 
 #### 💼 Work Experience
 
@@ -20,17 +20,17 @@ As a Data Engineer, I'm deeply engaged in the world of data, developing solution
 
 - **M.Sc in Data Science** (Expected Sep 2025) - University of Milano-Bicocca
 - **B.Sc in Statistics** (110/110 with honors) - University of Milano-Bicocca
-  - **Thesis**: "A Machine Learning Application for Meta-Analysis in Clinical Settings". The full thesis can be found [here](https://github.com/JuliusMaliwat/bachelor-thesis). 
+  - **Thesis:** "A Machine Learning Application for Meta-Analysis in Clinical Settings". The full thesis can be found [here](https://github.com/JuliusMaliwat/bachelor-thesis). 
 
 #### 🛠️ Projects
-- **[Deep Learning for Audio, Vision & Retrieval](https://github.com/JuliusMaliwat/deep-learning-audio-vision-retrieval)**: A multi-task deep learning project on environmental sound classification, low-light object detection, and vehicle image retrieval.
-- **[CamVid Dataset Segmentation with Deep Learning](https://github.com/JuliusMaliwat/semantic-segmentation-camvid)**: A project on semantic segmentation of the CamVid dataset using deep learning techniques.
-- **[META Champions in League of Legends](https://github.com/JuliusMaliwat/META-champions-lol)**: A data-driven project to identify META champions in League of Legends, utilizing Python for data collection and analysis.
-- **[Bio-Signal Indicators for Smoking Behavior](https://github.com/JuliusMaliwat/smoke-signals-ml)**: Utilizing machine learning to analyze bio-signal data for indicators of smoking behavior, showcasing the potential of ML in health informatics.
-- **[Decoding NBA Positions by Shots](https://github.com/JuliusMaliwat/decoding-nba-positions-by-shots)**: A computational statistics project aimed at classifying basketball players' roles based on shooting data from the NBA.
-- **[White Wine Quality Classification](https://github.com/JuliusMaliwat/white-wine-quality-classification)**: Developed for a Data Mining course, this project focuses on classifying white wine preferences using physicochemical properties.
-- **[Student Alcohol Consumption](https://github.com/JuliusMaliwat/student-alcohol-consumption)**: This dataset analysis provides insights into the familial, social, health, and school life of secondary school students, including their end-of-year grades and alcohol consumption patterns.
-- **[Sleep Efficiency and Lifestyle Correlations](https://github.com/JuliusMaliwat/sleep-efficiency-lifestyle)**: An analytical approach to how lifestyle factors such as caffeine, alcohol, smoking, and exercise influence sleep patterns, with visualizations through Tableau dashboards.
+- **[Deep Learning for Audio, Vision & Retrieval](https://github.com/JuliusMaliwat/deep-learning-audio-vision-retrieval):** A multi-task deep learning project on environmental sound classification, low-light object detection, and vehicle image retrieval.
+- **[CamVid Dataset Segmentation with Deep Learning](https://github.com/JuliusMaliwat/semantic-segmentation-camvid):** A project on semantic segmentation of the CamVid dataset using deep learning techniques.
+- **[META Champions in League of Legends](https://github.com/JuliusMaliwat/META-champions-lol):** A data-driven project to identify META champions in League of Legends, utilizing Python for data collection and analysis.
+- **[Bio-Signal Indicators for Smoking Behavior](https://github.com/JuliusMaliwat/smoke-signals-ml):** Utilizing machine learning to analyze bio-signal data for indicators of smoking behavior, showcasing the potential of ML in health informatics.
+- **[Decoding NBA Positions by Shots](https://github.com/JuliusMaliwat/decoding-nba-positions-by-shots):** A computational statistics project aimed at classifying basketball players' roles based on shooting data from the NBA.
+- **[White Wine Quality Classification](https://github.com/JuliusMaliwat/white-wine-quality-classification):** Developed for a Data Mining course, this project focuses on classifying white wine preferences using physicochemical properties.
+- **[Student Alcohol Consumption](https://github.com/JuliusMaliwat/student-alcohol-consumption):** This dataset analysis provides insights into the familial, social, health, and school life of secondary school students, including their end-of-year grades and alcohol consumption patterns.
+- **[Sleep Efficiency and Lifestyle Correlations](https://github.com/JuliusMaliwat/sleep-efficiency-lifestyle):** An analytical approach to how lifestyle factors such as caffeine, alcohol, smoking, and exercise influence sleep patterns, with visualizations through Tableau dashboards.
 
 ---
 
