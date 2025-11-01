@@ -2,7 +2,7 @@
 
 📍 Milan, Italy | 📧 juliusmaliwat.work@gmail.com
 
-As a Data Engineer [6th](https://youtu.be/-XDbrCteOlY), I'm deeply engaged in the world of data, developing solutions that transform raw information into actionable insights. With my academic foundation in data science and statistics from the University of Milano-Bicocca, I am driven to tackle complex challenges through innovative technologies.
+As a Data Engineer, I'm deeply engaged in the world of data, developing solutions that transform raw information into actionable insights. With my academic foundation in data science and statistics from the University of Milano-Bicocca, I am driven to tackle complex challenges through innovative technologies.
 
 #### 🔧 Skills
 
